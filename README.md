@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on pair programming.
 - 🤔 I’m looking for help with GitHub.
 - 💬 Ask me about my classes!
-- 📫 How to reach me: email me @ jeon_park@elcamino.edu
+- 📫 How to reach me: jeon_park@elcamino.edu || @jeo#9828 (discord)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like baking!
