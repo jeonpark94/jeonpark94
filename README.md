@@ -4,10 +4,9 @@
 **jeonpark94/jeonpark94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on learning the basics of computer science!
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently majoring in data science.
 - 👯 I’m looking to collaborate on pair programming.
 - 🤔 I’m looking for help with GitHub.
 - 💬 Ask me about my classes!
