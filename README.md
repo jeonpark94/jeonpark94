@@ -5,11 +5,9 @@
 -->
 
 
-- 🔭 I’m currently working on learning the basics of computer science!
-- 🌱 I’m currently majoring in data science.
-- 👯 I’m looking to collaborate on pair programming.
-- 🤔 I’m looking for help with GitHub.
+- 🔭 I'm a UCLA transfer student from El Camino College.
+- 🌱 I’m currently majoring in statistics and data science.
 - 💬 Ask me about my classes!
-- 📫 How to reach me: jeon_park@elcamino.edu || @jeo#9828 (discord)
+- 📫 How to reach me: jeonpark94@gmail.com || @jeo#9828 (discord)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like baking!
